@@ -14,25 +14,40 @@ When I’m not coding, you can find me exploring new AI tools, contributing to o
 
 ### **🛠️ Skills**
 
-#### **Languages & Frameworks**
+#### **Languages**
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+
+#### **Frameworks & Libraries**
 - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+- ![Gradio](https://img.shields.io/badge/-Gradio-F97316?logo=gradio&logoColor=white&style=flat)
+
+#### **SDKs & APIs**
+- ![Anthropic SDK](https://img.shields.io/badge/-Anthropic%20SDK-191919?logo=anthropic&logoColor=white&style=flat)
+- ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat)
+- ![Hugging Face Hub](https://img.shields.io/badge/-HuggingFace%20Hub-FFD21E?logo=huggingface&logoColor=black&style=flat)
+- ![OpenAI Whisper](https://img.shields.io/badge/-OpenAI%20Whisper-412991?logo=openai&logoColor=white&style=flat)
 
 #### **Tools & Platforms**
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 - ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+- ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat)
+- ![Hugging Face Spaces](https://img.shields.io/badge/-HF%20Spaces-FFD21E?logo=huggingface&logoColor=black&style=flat)
 
 #### **AI & NLP**
 
-- **Prompt Engineering**: Designing effective prompts for LLM applications
-- **NLP Applications**: Chatbots, triage systems, conversational AI
-- **LLM Integration**: Claude, and other modern language models
+- **Prompt Engineering**: System prompt design, safety constraints, tone/persona control
+- **LLM Integration**: Claude (Opus, Sonnet, Haiku), Whisper (speech-to-text)
+- **NLP Applications**: Conversational AI, triage bots, document extraction, audio transcription
+- **Document Processing**: PDF parsing with PyMuPDF, invoice data extraction
 
 #### **Learning & Growth**
 
-Currently exploring: - Currently exploring: **Angular**, **Docker**, **SQL**
+Currently exploring: **Angular**, **advanced SQL**, **production LLM deployment patterns**
+
 ---
 
 ### **📌 Featured Projects**
