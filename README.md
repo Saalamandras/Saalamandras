@@ -15,17 +15,14 @@ When I’m not coding, you can find me exploring new AI tools, contributing to o
 ### **🛠️ Skills**
 
 #### **Languages & Frameworks**
-
-- **Python**: Advanced (NLP, AI, prompt engineering, backend)
-- **JavaScript/React**: Proficient (frontend, interactive UIs)
-- **HTML/CSS**: Proficient (web development, responsive design)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 
 #### **Tools & Platforms**
-
-- **GitHub**: Version control, CI/CD, project management
-- **Hugging Face Spaces**: Deployment of AI models and demos
-- **Gradio**: Building interactive UIs for AI applications
-- **Anthropic SDK**: Integration and fine-tuning of LLM models
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+- ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 
 #### **AI & NLP**
 
